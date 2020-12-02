@@ -1,0 +1,55 @@
+body,h1,p{
+	margin:0;
+}
+header{
+	background-image: url(../images/bg2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	padding: 150px 500px 0 100px;
+	height: 100vh;
+}
+h1{
+	text-transform: capitalize;
+	font-size: 120px;
+	color: white;
+	line-height: 94px;
+}
+hr{
+	border:2px solid #a03c30;
+	width: 150px;
+	text-align: left;
+	margin-left: 0
+}
+.main-para{
+	color: white;
+	font-size: 25px;
+
+}
+.btn1{
+	text-transform: capitalize;
+	color: white;
+	background-color: #a03c30;
+	border: none;
+	font-size: 18px;
+	padding: 15px 40px;
+}
+.btn1:hover{
+	color: #a03c30;
+	background-color: transparent;
+	border:2px solid #a03c30;
+}
+.btn2{
+	text-transform: capitalize;
+	color:#a03c30;
+	background-color: transparent;
+	border:2px solid #a03c30;
+	font-size: 18px;
+	padding: 13px 40px;
+}
+.btn2:hover{
+	color:white;
+	background-color: #a03c30;
+
+}
